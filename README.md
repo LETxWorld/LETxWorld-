@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic IT student & self-taught developer from Nepal 🇳🇵</h3>
 
 <p align="center">
-  <img src="https://github.com/LETxworld/LETxworld/main/wp.jpg" width="200" style="border-radius: 50%;" />
+  <img src="wp.jpg" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
