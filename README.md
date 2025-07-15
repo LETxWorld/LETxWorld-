@@ -54,7 +54,7 @@
 - 📋 [todo-app](https://github.com/LETxworld/todo-app) — Daily task manager  
 - 💬 [chat-ui-design](https://github.com/LETxworld/chat-ui-design) — WhatsApp-like chat UI  
 
-> *Tip: Don’t forget to pin 6 projects in your GitHub profile*
+
 
 ---
 
