@@ -26,8 +26,8 @@
 - Freelancing tips
 
 📫 How to reach me:  
-📩 dipeshpokhrel55@gmail.com  
-🌐 (https://www.linkedin.com/in/dipesh-pokhrel-2a6002375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📩 Email: dipeshpokhrel55@gmail.com  
+🌐 Linkdn: (https://www.linkedin.com/in/dipesh-pokhrel-2a6002375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ⚡ Fun fact: I believe in **"Build once, learn forever."**
 
